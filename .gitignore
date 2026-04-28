@@ -1,1 +1,7 @@
 models/ 
+models_*/
+cache/
+logs/
+*.log
+*.csv
+*.zip
