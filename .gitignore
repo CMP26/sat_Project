@@ -6,3 +6,4 @@ logs/
 *.csv
 *.zip
 .venv/
+S2_ML_Dataset_V5/
